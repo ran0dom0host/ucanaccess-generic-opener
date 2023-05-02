@@ -1,13 +1,14 @@
 Background
-* To deal with an password encrypted accdb file (Microsoft Access 2010 database file).
+* Need to deal with an password encrypted accdb file (Microsoft Access 2010 database file).
 * To me, easiest approach was Java's ucanaccess library + Jackess library then  Python 3.7 +  JayDeBe 1.2.3 
 * Find this gordthompson/ucanaccess-generic-opener library might fit my requirement.
 Problem:
 * Somehow it cannot be used directly
 Analysis:
-* It might be the problem of wrong library version used on my project.
+* It might be the problem of wrong library version used on my project (i.e gordthompson's jar uses different version of UCanaccess  or Jackess)
+
 Solution:
-recode the java file and compile it the version I used.
+recode the java file and compile it with the version I use.
 
 Usage:
 ```java
