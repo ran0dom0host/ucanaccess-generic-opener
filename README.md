@@ -27,6 +27,7 @@ Jackcess-4.0/jackcess-4.0.0.jar
 Jackcess-4.0/jackcess-encrypt-4.0.1.jar
 IDE: netbeans 17
 
+It works on my computer, works on my python3.7 project, successfully retrieve data from password-protected-accdb Date: 2023-05-02
 
 == Below is the orginal readme file from gordthompson/ucanaccess-generic-opener ==
 
