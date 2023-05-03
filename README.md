@@ -20,12 +20,12 @@ Tips on compile your own:
 Please download the UCanAccess and Jackcess library by yourself and add to your project class path.
 
 Remarks:
-Java version and library used:
-Java:   \Semeru\jdk-17.0.3.7-openj9\  (Windows 11)
-UCanAccess-5.0.1.bin/ucanaccess-5.0.1.jar
-Jackcess-4.0/jackcess-4.0.0.jar
-Jackcess-4.0/jackcess-encrypt-4.0.1.jar
-IDE: netbeans 17
+* Java version and library used:
+        * Java:   \Semeru\jdk-17.0.3.7-openj9\  (Windows 11)
+* UCanAccess-5.0.1.bin/ucanaccess-5.0.1.jar
+        * Jackcess-4.0/jackcess-4.0.0.jar
+        * Jackcess-4.0/jackcess-encrypt-4.0.1.jar
+* IDE: netbeans 17
 
 It works on my computer, works on my python3.7 project, successfully retrieve data from password-protected-accdb Date: 2023-05-02
 
